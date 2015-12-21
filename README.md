@@ -9,7 +9,7 @@
 ## Get Started
 
 ```.sh
-gradle build
-gradle run
+./gradlew build
+./gradlew run
 curl -X GET localhost:4567/hello/hoge
 ```
