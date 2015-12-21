@@ -11,4 +11,5 @@
 ```.sh
 gradle build
 java bin/org/helloworld/HelloWorld
+curl -X GET localhost:4567
 ```
