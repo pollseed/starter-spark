@@ -10,6 +10,6 @@
 
 ```.sh
 gradle build
-java bin/org/helloworld/HelloWorld
-curl -X GET localhost:4567
+gradle run
+curl -X GET localhost:4567/hello/hoge
 ```
